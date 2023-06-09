@@ -1,4 +1,4 @@
-Trabalho: SCEM : SISTEMA DE CONTROLE DE ESTAÇÃO MEREOROLÓFGICA
+Trabalho: SCEM : SISTEMA DE CONTROLE DE ESTAÇÃO METEOROLÓGICA
 
 Objectivo: Fazer um sistema capaz de controlar o nível da temperatura e humidade do ar ambiente, checar o nível de humidade do solo, a presença/ausência de chuva, bem como o seu nível de intensidade caso exista.
 
